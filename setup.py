@@ -14,7 +14,6 @@ setup(
     keywords = "jws json web security signing",
     url = "http://github.com/brianlovesdata/python-jws",
     packages=['jws'],
-    long_description=read('README.md'),
     classifiers=[
         "Development Status :: 3 - Alpha",
         "Topic :: Utilities",
